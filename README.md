@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-My name is Gon Sarrabia, and I am a third-year student pursuing a degree in Computer Science and Cognition at the Hebrew University of Jerusalem. I'm passionate about machine learning, image processing, data structures and algorithms. Looking for a fulfilling and exciting position as a junior software engineer.
-Im highly motivated, ambitious, creative, and have excellent teamwork skills. Dedicated and committed to work.
+I’m Gon Sarrabia, a graduate in Computer Science and Cognitive Science from the Hebrew University of Jerusalem. My focus is on machine learning, with additional experience in image processing, algorithms, and software engineering. I’m seeking a junior software engineering role where I can apply my ML expertise, expand my skills, and contribute to innovative projects. I bring strong motivation, creativity, and teamwork abilities, with a proven commitment to learning and delivering results.
 
 
 
